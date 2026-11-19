@@ -1,4 +1,4 @@
-# smart-inventory-analytics-
+# smart-inventory-analytics for my job interview
 Inventory and Supply Chain Analytics Dashboard built with AI-assisted coding for my job applications lol
 
 An interactive inventory and supply chain analytics dashboard built with Python and Streamlit.
